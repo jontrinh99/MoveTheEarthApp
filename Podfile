@@ -8,7 +8,6 @@ target 'TestApp1' do
   # Pods for TestApp1
 
  pod 'FSCalendar'
- pod 'Firebase/Core'
- pod 'Firebase/Database'
-
+ pod 'RealmSwift'
+	
 end

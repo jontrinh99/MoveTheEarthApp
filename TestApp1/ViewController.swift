@@ -8,7 +8,7 @@
 
 import FSCalendar
 import UIKit
-import FirebaseDatabase
+//import FirebaseDatabase
 
 class ViewController: UIViewController, FSCalendarDelegate {
     
@@ -17,11 +17,11 @@ class ViewController: UIViewController, FSCalendarDelegate {
     override func viewDidLoad() {
         super.viewDidLoad()
        
-        let ref = Database.database().reference()
+        //let ref = Database.database().reference()
         
         //ref.child("someid/name").setValue("Example")
         
-        ref.childByAutoId().setValue(["Exercise":"Squat" , "Sets":"69", "reps":420 , "Weight":6969])
+        /*ref.childByAutoId().setValue(["Exercise":"Squat" , "Sets":"69", "reps":420 , "Weight":6969]) */
         
     }
     

@@ -8,7 +8,7 @@
 
 import UIKit
 import FSCalendar
-import Firebase                                // Firebase integrations
+//import Firebase                                // Firebase integrations
 
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
@@ -19,7 +19,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         // Override point for customization after application launch.
         
         
-        FirebaseApp.configure()                  // Firebase integration
+        //FirebaseApp.configure()                  // Firebase integration
         
         
         return true
