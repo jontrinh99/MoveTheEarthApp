@@ -9,7 +9,7 @@
 - Xcode 11
 - Swift 5.1
 - CocoaPods (Calendar Framework) 
-- FireBase (RealTime Database)
+- RealmSwift
 
 ### Contributors:
 - Joshua Bermudez
