@@ -20,3 +20,7 @@
 - Currently finalizing application on XCode and testing. 
 - Shifting towards deployment on iOS Store for users to use as official app on phone.
 
+
+### Technical Report:
+- tinyurl.com/MoveTheEarthReport
+
