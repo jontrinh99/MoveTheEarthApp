@@ -13,7 +13,7 @@
 
 ### Contributors:
 - Joshua Bermudez
-- Vinh - Trung Jonathan Trinh
+- Vinh-Trung Jonathan Trinh
 - Huyen Tran Tran 
 
 ### Deployment:
